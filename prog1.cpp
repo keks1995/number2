@@ -5,6 +5,6 @@ int main()
     cout<<"Enter to numbers";
         cin>>fi>>sec;
         cout<<fi-sec;
-        cout<<fi*sec;
-    return 0;
+             cout<<fi*sec;
+             cout<<fi/sec;    return 0;
 }
